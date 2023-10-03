@@ -1,0 +1,3 @@
+rabanada;10;789;75;false;muita suggar;1
+brigadeiro;8;890;50;true;docinho de festa;2
+sorvete;5;901;45;false;chocolate, flocos e coco;3

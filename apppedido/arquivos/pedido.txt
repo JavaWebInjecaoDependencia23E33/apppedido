@@ -1,0 +1,10 @@
+P;Pedido do Elberth;Elberth Moraes;98787676565;elberth.moraes@prof.infnet.edu.br
+B;Suco;10;123;false;500;Sucão
+C;Hot-dog;20;456;150;true;pão e salsicha
+S;rabanada;10;789;75;false;muita suggar
+B;Refri;20;234;true;1500;Coke
+C;Pizza;30;567;200;false;frango
+S;brigadeiro;8;890;50;true;docinho de festa
+B;Beer;30;345;true;2000;Zeca
+C;Churrasco;40;678;300;true;cebola e pão
+S;sorvete;5;901;45;false;chocolate, flocos e coco

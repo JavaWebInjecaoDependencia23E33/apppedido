@@ -1,0 +1,25 @@
+P;AppPedido;Projeto de Gestão de Pedidos
+C;Pedido
+A;descricao;String;Detalhamento do pedido
+A;data;LocalDateTime;Data de realização do pedido
+A;web;boolean;Indicativo se o pedido foi realizado presencialmente ou pela web
+C;Solicitante
+A;nome;String;Nome do solicitante
+A;email;String;E-mail do solicitante
+A;cpf;String;CPF do solicitante
+C;Produto
+A;nome;String;Nome do produto
+A;valor;float;Valor do produto
+A;codigo;int;Código do produto
+C;Bebida
+A;gelada;boolean;Indicativo se a bebida é gelada
+A;tamanho;float;Mililitros de bebida
+A;marca;String;Marca da bebida
+C;Comida
+A;peso;float;Peso em quilogramas da comida
+A;vegano;boolean;Indicativo se a comida é vegana
+A;ingredientes;String;Ingredientes da comida
+C;Sobremesa
+A;quantidade;int;Quantidade de pessoas que a sobremesa serve
+A;doce;boolean;Indicativo se a sobremesa é um doce embalado
+A;informacao;String;Informações da sobremesa

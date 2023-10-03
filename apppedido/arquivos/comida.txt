@@ -1,0 +1,3 @@
+Hot-dog;20;456;150;true;pão e salsicha;1
+Pizza;30;567;200;false;frango;2
+Churrasco;40;678;300;true;cebola e pão;3

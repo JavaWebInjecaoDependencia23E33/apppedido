@@ -1,0 +1,9 @@
+Suco;10;123;false;500;Sucão;1;B
+Refri;20;234;true;1500;Coke;2;B
+Beer;30;345;true;2000;Zeca;3;B
+Hot-dog;20;456;150;true;pão e salsicha;1;C
+Pizza;30;567;200;false;frango;2;C
+Churrasco;40;678;300;true;cebola e pão;3;C
+rabanada;10;789;75;false;muita suggar;1;S
+brigadeiro;8;890;50;true;docinho de festa;2;S
+sorvete;5;901;45;false;chocolate, flocos e coco;3;S

@@ -1,0 +1,6 @@
+Suco;10;123;false;500;Sucão;1
+Refri;20;234;true;1500;Coke;1
+Beer;30;345;true;2000;Zeca;2
+Suco;10;123;false;500;Sucão;2
+Refri;20;234;true;1500;Coke;3
+Beer;30;345;true;2000;Zeca;3
